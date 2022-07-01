@@ -1,6 +1,6 @@
 # This is the Cisco Intern Project which is related to CyberSecurity!
 
-# This is the CLI Based Project which takes 10 ipv4 address in decimal format and then validates it and then stores in the connversion.txt file
+# This is the CLI Based Project which takes 10 ipv4 address in decimal format and then validates it and convert it to other formats like binary, hexdecimal and octal and then stores in the connversion.txt file
 
 # To Run the Project
 
